@@ -4,7 +4,7 @@
 
 This project is used to create an IAM binding in GCP with specific Role.
 This project uses temporal and Cloud SDK's for IAM Binding.
-It uses  Gin FrameWork.
+This project uses  Gin FrameWork.
 
 
 ```shell
